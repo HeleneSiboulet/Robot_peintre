@@ -1,0 +1,136 @@
+
+===============Init Logging================
+
+05/02/2018 - 12:42:54 	===== Ouverture de session =====
+05/02/2018 - 12:48:37 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+30/03/2018 - 16:13:36 	===== Ouverture de session =====
+30/03/2018 - 17:34:15 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+30/03/2018 - 17:34:36 	===== Ouverture de session =====
+30/03/2018 - 17:40:05 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+03/04/2018 - 19:03:32 	===== Ouverture de session =====
+03/04/2018 - 19:36:16 	Début du calcul
+03/04/2018 - 19:36:16 	Nombre de positions : 36
+03/04/2018 - 19:36:16 	Simulation inactivée
+03/04/2018 - 19:36:16 	Fin du calcul
+03/04/2018 - 19:36:18 	Début du calcul
+03/04/2018 - 19:36:18 	Nombre de positions : 36
+03/04/2018 - 19:36:18 	Simulation inactivée
+03/04/2018 - 19:36:18 	Fin du calcul
+03/04/2018 - 19:36:20 	Début du calcul
+03/04/2018 - 19:36:20 	Nombre de positions : 36
+03/04/2018 - 19:36:20 	Simulation inactivée
+03/04/2018 - 19:36:20 	Fin du calcul
+03/04/2018 - 19:36:43 	Début du calcul
+03/04/2018 - 19:36:43 	Nombre de positions : 36
+03/04/2018 - 19:36:43 	Simulation inactivée
+03/04/2018 - 19:36:43 	Fin du calcul
+03/04/2018 - 19:36:44 	Début du calcul
+03/04/2018 - 19:36:44 	Nombre de positions : 36
+03/04/2018 - 19:36:44 	Simulation inactivée
+03/04/2018 - 19:36:44 	Fin du calcul
+03/04/2018 - 19:37:29 	Début du calcul
+03/04/2018 - 19:37:29 	Nombre de positions : 36
+03/04/2018 - 19:37:29 	Simulation inactivée
+03/04/2018 - 19:37:29 	Fin du calcul
+03/04/2018 - 19:37:31 	Début du calcul
+03/04/2018 - 19:37:31 	Nombre de positions : 36
+03/04/2018 - 19:37:31 	Simulation inactivée
+03/04/2018 - 19:37:31 	Fin du calcul
+03/04/2018 - 19:39:24 	Début du calcul
+03/04/2018 - 19:39:24 	Nombre de positions : 36
+03/04/2018 - 19:39:24 	Simulation inactivée
+03/04/2018 - 19:39:24 	Fin du calcul
+03/04/2018 - 19:40:53 	Début du calcul
+03/04/2018 - 19:40:53 	Nombre de positions : 3600
+03/04/2018 - 19:40:53 	Simulation inactivée
+03/04/2018 - 19:40:58 	Fin du calcul
+03/04/2018 - 19:41:37 	Début du calcul
+03/04/2018 - 19:41:37 	Nombre de positions : 3600
+03/04/2018 - 19:41:37 	Simulation inactivée
+03/04/2018 - 19:41:42 	Fin du calcul
+03/04/2018 - 19:42:23 	Début du calcul
+03/04/2018 - 19:42:23 	Nombre de positions : 3600
+03/04/2018 - 19:42:23 	Simulation inactivée
+03/04/2018 - 19:42:27 	Fin du calcul
+03/04/2018 - 19:46:25 	Début du calcul
+03/04/2018 - 19:46:25 	Nombre de positions : 3600
+03/04/2018 - 19:46:25 	Simulation inactivée
+03/04/2018 - 19:46:30 	Fin du calcul
+03/04/2018 - 19:46:54 	Début du calcul
+03/04/2018 - 19:46:54 	Nombre de positions : 3600
+03/04/2018 - 19:46:54 	Simulation inactivée
+03/04/2018 - 19:46:59 	Fin du calcul
+03/04/2018 - 19:47:21 	Début du calcul
+03/04/2018 - 19:47:21 	Nombre de positions : 3600
+03/04/2018 - 19:47:21 	Simulation inactivée
+03/04/2018 - 19:47:26 	Fin du calcul
+03/04/2018 - 19:47:50 	Début du calcul
+03/04/2018 - 19:47:50 	Nombre de positions : 3600
+03/04/2018 - 19:47:50 	Simulation inactivée
+03/04/2018 - 19:47:55 	Fin du calcul
+03/04/2018 - 19:48:19 	Début du calcul
+03/04/2018 - 19:48:19 	Nombre de positions : 3600
+03/04/2018 - 19:48:19 	Simulation inactivée
+03/04/2018 - 19:48:23 	Fin du calcul
+03/04/2018 - 19:48:46 	Début du calcul
+03/04/2018 - 19:48:46 	Nombre de positions : 3600
+03/04/2018 - 19:48:46 	Simulation inactivée
+03/04/2018 - 19:48:51 	Fin du calcul
+03/04/2018 - 19:51:36 	Début du calcul
+03/04/2018 - 19:51:36 	Nombre de positions : 3600
+03/04/2018 - 19:51:36 	Simulation inactivée
+03/04/2018 - 19:51:41 	Fin du calcul
+03/04/2018 - 19:52:07 	Début du calcul
+03/04/2018 - 19:52:07 	Nombre de positions : 3600
+03/04/2018 - 19:52:07 	Simulation inactivée
+03/04/2018 - 19:52:11 	Fin du calcul
+03/04/2018 - 19:59:29 	Début du calcul
+03/04/2018 - 19:59:29 	Nombre de positions : 1
+03/04/2018 - 19:59:29 	Simulation inactivée
+03/04/2018 - 19:59:29 	Fin du calcul
+03/04/2018 - 20:00:24 	Début du calcul
+03/04/2018 - 20:00:24 	Nombre de positions : 1000
+03/04/2018 - 20:00:24 	Simulation inactivée
+03/04/2018 - 20:00:24 	Fin du calcul
+03/04/2018 - 20:05:06 	Début du calcul
+03/04/2018 - 20:05:06 	Nombre de positions : 1000
+03/04/2018 - 20:05:06 	Simulation inactivée
+03/04/2018 - 20:05:07 	Fin du calcul
+03/04/2018 - 20:06:02 	Début du calcul
+03/04/2018 - 20:06:02 	Nombre de positions : 1000
+03/04/2018 - 20:06:02 	Simulation inactivée
+03/04/2018 - 20:06:02 	Fin du calcul
+03/04/2018 - 20:06:33 	Début du calcul
+03/04/2018 - 20:06:33 	Nombre de positions : 1000
+03/04/2018 - 20:06:33 	Simulation inactivée
+03/04/2018 - 20:06:34 	Fin du calcul
+03/04/2018 - 20:09:41 	Début du calcul
+03/04/2018 - 20:09:41 	Nombre de positions : 1000
+03/04/2018 - 20:09:41 	Simulation inactivée
+03/04/2018 - 20:09:42 	Fin du calcul
+03/04/2018 - 20:10:14 	Début du calcul
+03/04/2018 - 20:10:14 	Nombre de positions : 1000
+03/04/2018 - 20:10:14 	Simulation inactivée
+03/04/2018 - 20:10:14 	Fin du calcul
+03/04/2018 - 20:22:08 	===== Fermeture de session =====
+
+===============Finish Logging================
+

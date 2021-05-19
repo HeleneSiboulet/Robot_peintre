@@ -1,0 +1,38 @@
+
+===============Init Logging================
+
+28/10/2017 - 10:49:33 	===== Ouverture de session =====
+28/10/2017 - 10:56:48 	Début du calcul
+28/10/2017 - 10:56:48 	Nombre de positions : 1
+28/10/2017 - 10:56:48 	Simulation inactivée
+28/10/2017 - 10:56:48 	Lecture des conditions initiales
+28/10/2017 - 10:56:48 	Fin du calcul
+28/10/2017 - 10:56:48 	Début du calcul
+28/10/2017 - 10:56:48 	Nombre de positions : 1
+28/10/2017 - 10:56:48 	Simulation inactivée
+28/10/2017 - 10:56:48 	Lecture des conditions initiales
+28/10/2017 - 10:56:48 	Fin du calcul
+28/10/2017 - 10:57:36 	Début du calcul
+28/10/2017 - 10:57:36 	Nombre de positions : 1
+28/10/2017 - 10:57:36 	Simulation inactivée
+28/10/2017 - 10:57:36 	Lecture des conditions initiales
+28/10/2017 - 10:57:40 	Analyse du système incorrecte
+28/10/2017 - 10:57:40 	Abandon du calcul
+28/10/2017 - 10:57:48 	Début du calcul
+28/10/2017 - 10:57:48 	Nombre de positions : 1
+28/10/2017 - 10:57:48 	Simulation inactivée
+28/10/2017 - 10:57:48 	Lecture des conditions initiales
+28/10/2017 - 10:57:49 	Analyse du système incorrecte
+28/10/2017 - 10:57:49 	Abandon du calcul
+28/10/2017 - 10:57:55 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+05/11/2017 - 12:14:57 	===== Ouverture de session =====
+05/11/2017 - 12:15:13 	===== Fermeture de session =====
+
+===============Finish Logging================
+
